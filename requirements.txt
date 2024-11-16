@@ -8,5 +8,4 @@ fuzzywuzzy
 python-Levenshtein
 PyMuPDF
 python-docx
-libgl-mesa-glx
 libglib
