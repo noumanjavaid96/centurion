@@ -1,10 +1,13 @@
 streamlit
-opencv-python-headless==4.8.0.76
+opencv-python-headless
 scikit-image
 pillow
-numpy2
+numpy
 pandas
 fuzzywuzzy
 python-Levenshtein
 PyMuPDF
 python-docx
+opencv-python 
+opencv-contrib-python 
+opencv-contrib-python-headless
