@@ -2,7 +2,7 @@ streamlit
 opencv-python-headless==4.8.0.76
 scikit-image
 pillow
-numpy
+numpy2
 pandas
 fuzzywuzzy
 python-Levenshtein
