@@ -4,3 +4,4 @@ scikit-image
 pillow 
 numpy
 pandas
+fuzzywuzzy
