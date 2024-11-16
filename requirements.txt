@@ -8,3 +8,4 @@ fuzzywuzzy==0.18.0
 python-Levenshtein==0.21.0
 PyMuPDF==1.23.7
 python-docx==0.8.11
+cv2
