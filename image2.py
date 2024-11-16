@@ -1,6 +1,6 @@
 import streamlit as st
 from PIL import Image, ImageDraw, ImageFont, ExifTags
-import cv2
+import cv2 as cv
 import numpy as np
 from skimage.metrics import structural_similarity as ssim
 import pandas as pd
