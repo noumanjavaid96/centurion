@@ -9,6 +9,7 @@ import requests
 import zipfile
 from typing import Union, Dict, Any
 import time
+import numpy as np
 
 # Page configuration
 st.set_page_config(
