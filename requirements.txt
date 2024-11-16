@@ -8,4 +8,3 @@ fuzzywuzzy
 python-Levenshtein
 PyMuPDF
 python-docx
-libglib
