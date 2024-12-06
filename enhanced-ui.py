@@ -32,7 +32,7 @@ def check_metadata():
 
 # Function to detect deepfake using NVIDIA API
 def detect_deepfake(image_path):
-    header_auth = "Bearer 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"
+    header_auth = "Bearer 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"
     invoke_url = "https://ai.api.nvidia.com/v1/cv/hive/deepfake-image-detection"
 
     with open(image_path, "rb") as f:
