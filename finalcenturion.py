@@ -7,7 +7,7 @@ from PIL import Image
 import io
 
 # Constants
-NVIDIA_API_KEY = "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"
+NVIDIA_API_KEY = "nvapi-5ADM7He2CtZFfaZDrXmrquuycLxfPUo3ib_EGCK-Ozsl5KFRCiF8t9dFmf"
 
 def draw_bounding_box(image, vertices, confidence, is_deepfake):
     """Draw bounding box with confidence score on image"""
