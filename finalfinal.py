@@ -8,7 +8,7 @@ import json
 import os
 
 # Constants
-NVIDIA_API_KEY = "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"
+NVIDIA_API_KEY = "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"
 TEMP_IMAGE_PATH = "temp_image.png"
 
 def upload_asset(path, desc):
